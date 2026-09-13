@@ -1,5 +1,6 @@
 # RoboBehaviors and Finite State Machines Project
 Author Names: Jane Doe, John Dough, and J.D.
+
 For Olin ENGR3590 Computational Introduction to Robotics
 
 ## Project Overview
@@ -13,7 +14,7 @@ This section should be composed of the following:
 * A descriptive paragraph (what is the behavior and its intent).
 * A paragraph of implementation details (what do you subscribe to, what do you publish, is this multi-threaded, did you implement a parameter server, and anything else essential to your implementation). This can include any testing/debugging interfacing you added.
 * A paragraph that summarizes your key design decisions (and justifications, if relevant).
-* A figure, gif, or embedded video demonstrating the behavior, with a link to the relevant rosbag in your repository. Any other explanatory visuals (e.g., geometric diagrams, flow charts, etc.) are also welcome.
+* A figure, gif, or embedded video demonstrating the behavior, with a link to the relevant `rosbag` in your repository. Any other explanatory visuals (e.g., geometric diagrams, flow charts, etc.) are also welcome.
 
 
 ## Finite State Machine
@@ -31,7 +32,7 @@ In this section, you will have:
 In this section, you will describe how you implemented your finite state machine, with pointers to relevant code in the repository.
 
 ### Demonstration
-In this section, you can provide some remarks about the current performance of your finite state machine, and embed figures, gifs, or videos that demonstrate the performance. You can also link to relevant rosbag files in the repository.
+In this section, you can provide some remarks about the current performance of your finite state machine, and can include figures, gifs, or embedded videos that demonstrate the performance. You can also link to relevant `rosbag` files in the repository.
 
 ## Learning Objectives and Final Takeaways
 In this section, please report on each individual's learning objectives with this project and key takeaways. If there are any collective takeaways to report (such as possible future work), you may also report these here. 
